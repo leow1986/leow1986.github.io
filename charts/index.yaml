@@ -1,13 +1,13 @@
 apiVersion: v1
 entries:
-  inference:
+  inference-caffe:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-10-01T08:01:48.270076507Z"
+    created: "2019-10-01T11:04:12.118248809Z"
     description: A Helm chart for Kubernetes
-    digest: 89075ae2b4b47a272c78a9bd1fe67dd25831c0569a935d272e1f1a7039f5e521
-    name: inference
+    digest: 5a6d73f67ad4bee98e64a9bbc0267456e0ce6370c0980c684712bd71f1b626d8
+    name: inference-caffe
     urls:
-    - http://leow1986.github.io/charts/caffe-0.1.0.tgz
+    -  https://leow1986.github.io/charts/inference-caffe-0.1.0.tgz
     version: 0.1.0
-generated: "2019-10-01T08:01:48.269421175Z"
+generated: "2019-10-01T11:04:12.117831381Z"
