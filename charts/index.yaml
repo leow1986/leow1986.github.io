@@ -3,21 +3,51 @@ entries:
   inference-caffe:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-10-01T11:04:12.118248809Z"
+    created: "2019-11-27T17:53:07.821030286+08:00"
     description: A Helm chart for Kubernetes
     digest: 5a6d73f67ad4bee98e64a9bbc0267456e0ce6370c0980c684712bd71f1b626d8
     name: inference-caffe
     urls:
-    -  https://leow1986.github.io/charts/inference-caffe-0.1.0.tgz
+    - https://leow1986.github.io/charts/inference-caffe-0.1.0.tgz
     version: 0.1.0
-  nginx-0-1-5:
+  tdcsqa-nginx-alan:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-09-25T21:35:49.416377317Z"
+    created: "2019-11-27T17:53:07.82122536+08:00"
     description: A Helm chart for Kubernetes
-    digest: 768c234acdac34cb921b3b7c33ee4e6942f9b34f2a03c3367021c31967a1e2db
-    name: nginx
+    digest: de59b9223a975d632d0f5c3b12d5cb511a3e404e960d1d8936956afa17a088ed
+    name: tdcsqa-nginx-alan
     urls:
-    - https://leow1986.github.io/charts/nginx-0.1.5.tgz
-    version: 0.1.5
-generated: "2019-10-01T11:04:12.117831381Z"
+    - https://leow1986.github.io/charts/tdcsqa-nginx-alan-0.0.1.tgz
+    version: 0.0.1
+  tdcsqa-nginx-bob:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-11-27T17:53:07.821402013+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 96200f16742c3f22b4e12a4c429590b9e3d91171cb65429555093ca223c7ac12
+    name: tdcsqa-nginx-bob
+    urls:
+    - https://leow1986.github.io/charts/tdcsqa-nginx-bob-0.0.1.tgz
+    version: 0.0.1
+  tdcsqa-nginx-doris:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-11-27T17:53:07.821568753+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 96d83e5afc7a9d055bf7e744a1d7ca2e603ff4702db03438d7130f725e98e398
+    name: tdcsqa-nginx-doris
+    urls:
+    - https://leow1986.github.io/charts/tdcsqa-nginx-doris-0.0.1.tgz
+    version: 0.0.1
+  tdcsqa-nginx-kenny:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-11-27T17:53:07.821722046+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 8770682668791ca397c1ae4fc96ae3cf190b77c7d65c690332d593758627ddc4
+    name: tdcsqa-nginx-kenny
+    urls:
+    - https://leow1986.github.io/charts/tdcsqa-nginx-kenny-0.0.1.tgz
+    version: 0.0.1
+generated: "2019-11-27T17:53:07.820695786+08:00"
