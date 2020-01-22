@@ -50,4 +50,14 @@ entries:
     urls:
     - https://leow1986.github.io/charts/tdcsqa-nginx-kenny-0.0.1.tgz
     version: 0.0.1
+  tdcsqa-nginx-vicky:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-01-22T09:58:39.245666418+08:00"
+    description: A Helm chart for Kubernetes
+    digest: bdddbbe332bb71709075faf81f1f86ee857ef2e5e10858b96913f67040de6b42
+    name: tdcsqa-nginx-vicky
+    urls:
+    - https://leow1986.github.io/charts/tdcsqa-nginx-vicky-0.0.1.tgz
+    version: 0.0.1
 generated: "2019-11-27T17:53:07.820695786+08:00"
