@@ -70,5 +70,14 @@ entries:
     urls:
     - https://leow1986.github.io/charts/tdcsqa-nginx-daemon-0.0.1.tgz
     version: 0.0.1
+  tdcsqa-auto-nginx:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-03-03T17:50:05.353683632+08:00"
+    description: A Helm chart for Kubernetes
+    name: tdcsqa-auto-nginx
+    urls:
+    - https://leow1986.github.io/charts/tdcsqa-auto-nginx-0.0.1.tgz
+    version: 0.0.1
 generated: "2019-11-27T17:53:07.820695786+08:00"
 
